@@ -1,0 +1,10 @@
+{
+  "name": "fetter",
+  "version": "0.0.1",
+  "dependencies": {
+    "dot": "^1.0.3",
+    "jquery": "^2.1.4",
+    "object.observe": "^0.2.4"
+  },
+  "license": "AGPL-3.0"
+}
