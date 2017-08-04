@@ -37,3 +37,10 @@ firefox index.html
 * Add "template re-compile when data changes"-option
 * Add a way to iterate a template over an array and then append when an entry is appended.
 * Get rid of jquery as a dependency.
+
+
+# copyright and license
+
+Copyright 2017 BioBricks Foundation
+
+License: AGPLv3
