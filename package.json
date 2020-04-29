@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "dot": "^1.0.3",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "object.observe": "^0.2.4"
   },
   "homepage": "http://github.com/biobricks/fetter",
